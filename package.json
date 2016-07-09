@@ -1,0 +1,15 @@
+{
+  "name"         : "simple-scraper",
+  "version"      : "0.0.1",
+  "description"  : "Scrap Web Content with NodeJs",
+  "main"         : "main.js",
+  "author"       : "Sugiarto",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest",
+    "mysql"      : "latest",
+    "line-reader" : "latest",
+    "html-to-text" : "latest"
+  }
+}
