@@ -61,8 +61,8 @@ request(url_site, function(error, response, body) {
   console.log("name : " + product_name);
   console.log("Price : " + price);
   console.log("Sale Price : " + sale_price);
-  console.log("Product Details : " + product_details);
-  console.log("Description : " + description);
+  // console.log("Product Details : " + product_details);
+  // console.log("Description : " + description);
   console.log("Categories : " + category_tree);
   console.log("Brand : " + brand);
 
